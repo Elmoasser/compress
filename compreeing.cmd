@@ -1,0 +1,1 @@
+npx gltf-pipeline -i model.glb -d --draco.compressionLevel 10 -o compressed.glb
